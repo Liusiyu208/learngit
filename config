@@ -1,0 +1,35 @@
+
+Host github.com
+	User 2106948076@qq.com
+	Hostname ssh.github.com
+	PreferredAuthentications publicky
+	IdentityFile ~/.ssh/id_rsa
+	Port 443
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
